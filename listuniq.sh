@@ -33,5 +33,3 @@ echo "Sets of redundant files are listed in ../listuniq/redun.txt"
 
 #temporary file cleanup
 rm abcd.txt
-
-#this comment is just a test of the Github commit/push process
